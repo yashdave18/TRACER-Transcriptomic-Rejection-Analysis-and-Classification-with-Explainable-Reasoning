@@ -18,20 +18,6 @@ unreliability — analysis not present in the original study.
 
 ---
 
-## Background
-
-- **Original paper:** van Baardwijk, M., Cristoferi, I., Ju, J., Varol, H.,
-  Minnee, R. C., Reinders, M. E. J., Li, Y., Stubbs, A. P., & Clahsen-van
-  Groningen, M. C. (2022). *A Decentralized Kidney Transplant Biopsy
-  Classifier for Transplant Rejection Developed Using Genes of the
-  Banff-Human Organ Transplant Panel.* Frontiers in Immunology, 13, 841519.
-  [https://doi.org/10.3389/fimmu.2022.841519](https://doi.org/10.3389/fimmu.2022.841519)
-- **Original repository:**
-  [ErasmusMC-Bioinformatics/KidneyRejectionClassifier](https://github.com/ErasmusMC-Bioinformatics/KidneyRejectionClassifier)
-  — we reused the authors' own annotation files and preprocessing functions
-  directly for the reproduction stage.
-
----
 
 ## Repository Structure
 
