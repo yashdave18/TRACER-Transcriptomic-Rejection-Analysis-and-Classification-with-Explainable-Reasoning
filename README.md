@@ -152,7 +152,7 @@ sample. A threshold of **0.15** (selected by comparing 0.05–0.35) flags
 |---|---|---|---|
 | Full dataset | 1,181 | 91.53% | 0.8786 |
 | Non-ambiguous | 1,132 | 93.37% | 0.9038 |
-| **Ambiguous** | **49** | **48.98%** | **0.4185** |
+
 
 The near two-fold accuracy gap between ambiguous and non-ambiguous samples
 shows the margin is a genuinely useful, actionable signal for flagging
